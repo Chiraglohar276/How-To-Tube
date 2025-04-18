@@ -1,9 +1,8 @@
 # How-To-Tube
 # ![GALogo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
-### General Assembly Software Engineering Immersive
 
-# Project-4 - PostgreSQL, Python, Flask & React Full Stack Application - HowToTube, A Video Platform for Personal Development!
+#   PostgreSQL, Python, Flask & React Full Stack Application - HowToTube, A Video Platform for Personal Development!
  
 
          /__/\         /  /\         /__/\                 ___        /  /\    
@@ -19,9 +18,7 @@
 
 ## The Overview
 
-This project was a Group Programming task - set as part of the Software Engineering Immersive Course from General Assembly.
-
-This task involved working together to develop a Full Stack application using the core technologies of - PostgreSQL, Python, Flask and React. This Project took place over 6 working days. Whilst we are all familiar with React and JavaScript - SQL databases and Python & Flask are new technologies to us - so this was both a practicing and learning experience. 
+This task involved working together to develop a Full Stack application using the core technologies of - PostgreSQL, Python, Flask and React.   Whilst we are all familiar with React and JavaScript - SQL databases and Python & Flask are new technologies to us - so this was both a practicing and learning experience. 
 
 When consulting as part of a team, it was decided to design an app to do with learning. What we came up with was a streaming platform app that allowed users to post Videos and comments, follow other users and view videos based on personal interests.
 
